@@ -1,5 +1,5 @@
 
-public class MovieScenes {
+public class MovieScene {
 
 	protected String girl = "Girl";
 	protected String oldwoman = "oldwoman";
