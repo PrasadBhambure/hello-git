@@ -15,7 +15,7 @@ public class MovieSceneDemo {
                 
 		System.out.println("\nToday "+today+" the scene which includes every action is:-\n");
 		
-		MovieScene S = new Scene();
+		MovieScene S = new Scenes();
 			
 		S.breath(S.girl);
 		S.go(S.boy);

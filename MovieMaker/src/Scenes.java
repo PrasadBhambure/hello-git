@@ -1,5 +1,5 @@
 
-public class Scene extends MovieScene {
+public class Scenes extends MovieScene {
 
 	public void talk(String girl, String boy){
 		
